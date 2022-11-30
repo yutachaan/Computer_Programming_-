@@ -127,7 +127,7 @@ if __name__ == "__main__":
     class_id_query_id_set = [query_news_list[x].classId for x in query_id_set]
 
     # クエリIDが重複している場合や，すべてのクエリのクラスが同じ場合はもう一度生成し直す
-    if len(query_id_set) == len(set(query_id_set)) and len(class_id_query_id_set) == len(set(class_id_query_id_set)): break
+    if len(query_id_set) == len(set(query_id_set)) and len(set(class_id_query_id_set)) > 1: break
 
     query_id_set = []
 
