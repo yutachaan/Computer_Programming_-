@@ -1,0 +1,85 @@
+**************************************************
+佐藤優太, B223330
+日付: 2022-11-30 18:01:52.487227
+課題7: 文書ベクトルの類似度を用いた文書検索
+**************************************************
+QueryID=273 class=[19] Subject: Re: A Message for you Mr. President: How do you know what happened?
+--------------------------------------------------
+Rank1(297) 0.953 Subject: Re: A Message for you Mr. President: How do you know what happened? class=[19]
+Rank2(245) 0.948 Subject: Re: Question for those with popular morality class=[19]
+Rank3(1963) 0.947 Subject: Re: The [secret] source of that announcement class=[11]
+Rank4(502) 0.945 Subject: Re: Deir Yassin class=[17]
+Rank5(501) 0.943 Subject: Re: was: Go Hezbollah!! class=[17]
+Rank6(518) 0.943 Subject: Re: Israel's Expansion II class=[17]
+Rank7(265) 0.943 Subject: Re: Question for those with popular morality class=[19]
+Rank8(1251) 0.941 Subject: Christianity & Logic (was: Xtian Morality is) class=[0]
+Rank9(543) 0.940 Subject: Re: PLEASE! SHOW UP IN WASHINGTON DC FOR BOSNIA (MAY 15th) class=[17]
+Rank10(1828) 0.939 Subject: Re: SATANIC TOUNGES class=[15]
+クエリと同じクラスがランク10位までに見つかった割合 = 30.0%
+**************************************************
+
+
+QueryID=280 class=[10] Subject: My Predictions of a classic playoff year!
+--------------------------------------------------
+Rank1(659) 0.944 Subject: Re: NHL Team Captains class=[10]
+Rank2(617) 0.940 Subject: Re: WC 93: Results, April 18 class=[10]
+Rank3(653) 0.939 Subject: Re: Jets/Canucks - Jets hold on, win 5-4 class=[10]
+Rank4(693) 0.934 Subject: Re: Playoff Predictions class=[10]
+Rank5(690) 0.930 Subject: Re: Trade rumor: Montreal/Ottawa/Phillie class=[10]
+Rank6(673) 0.930 Subject: USENET Hockey Draft Final Standings class=[10]
+Rank7(645) 0.930 Subject: If You Were Pat Burns ... class=[10]
+Rank8(608) 0.930 Subject: Re: Where are all the Bruins fans??? class=[10]
+Rank9(625) 0.930 Subject: Re: Bay area media (Wings-Leafs coverage) class=[10]
+Rank10(6) 0.929 Subject: Re: Jack Morris class=[9]
+クエリと同じクラスがランク10位までに見つかった割合 = 90.0%
+**************************************************
+
+
+QueryID=347 class=[5] Subject: Print from within an application
+--------------------------------------------------
+Rank1(1709) 0.938 Subject: MS Excel SDK for Sale class=[6]
+Rank2(1562) 0.931 Subject: HELP! Need JPEG / MPEG encod-decode class=[1]
+Rank3(1518) 0.930 Subject: Looking for a job as a Software Engineer class=[1]
+Rank4(1714) 0.930 Subject: Software and Hardware FOR SALE class=[6]
+Rank5(739) 0.930 Subject: Re: Auto air conditioning without Freon class=[7]
+Rank6(878) 0.928 Subject: Re: What if the USSR had reached the Moon first? class=[14]
+Rank7(457) 0.928 Subject: Emulator pods class=[12]
+Rank8(1538) 0.927 Subject: Parametric Drafting class=[1]
+Rank9(450) 0.926 Subject: W86C451, W86C456 info wanted class=[12]
+Rank10(1315) 0.925 Subject: Looking for comments on COMPAQ DESKPRO's... class=[3]
+クエリと同じクラスがランク10位までに見つかった割合 = 0.0%
+**************************************************
+
+
+QueryID=141 class=[12] Subject: Re: Caltech PUFF PD ftp? RF Tools?
+--------------------------------------------------
+Rank1(393) 0.946 Subject: Re: Who's next?  Mormons and Jews? class=[16]
+Rank2(309) 0.943 Subject: Re: ATF BURNS DIVIDIAN RANCH! NO SURVIVORS!!! class=[16]
+Rank3(893) 0.943 Subject: Commercial point of view class=[14]
+Rank4(285) 0.942 Subject: Re: Who's next?  Mormons and Jews? class=[19]
+Rank5(1030) 0.941 Subject: Re: Barbecued foods and health risk class=[13]
+Rank6(441) 0.941 Subject: Re: History question class=[12]
+Rank7(1912) 0.940 Subject: Re: The battle is joined class=[11]
+Rank8(117) 0.940 Subject: Re: Mix GL with X (Xlib,Xt,mwm) class=[5]
+Rank9(994) 0.940 Subject: Re: Safe driving prcatices... class=[8]
+Rank10(349) 0.939 Subject: Re: WACO: Clinton press conference, part 1 class=[16]
+クエリと同じクラスがランク10位までに見つかった割合 = 10.0%
+**************************************************
+
+
+QueryID=60 class=[0] Subject: Re: Yet more Rushdie [Re: ISLAMIC LAW]
+--------------------------------------------------
+Rank1(1247) 0.950 Subject: Re: Yet more Rushdie [Re: ISLAMIC LAW] class=[0]
+Rank2(867) 0.945 Subject: Re: Vandalizing the sky. class=[14]
+Rank3(1206) 0.942 Subject: Re: <<Pompous ass class=[0]
+Rank4(1851) 0.939 Subject: Re: Athiests and Hell class=[15]
+Rank5(300) 0.939 Subject: Re: ATF BURNS DIVIDIAN RANCH! NO SURVIVORS!!! class=[16]
+Rank6(297) 0.939 Subject: Re: A Message for you Mr. President: How do you know what happened? class=[19]
+Rank7(1242) 0.938 Subject: Re: Yet more Rushdie [Re: ISLAMIC LAW] class=[0]
+Rank8(333) 0.936 Subject: Re: CLINTON JOINS LIST OF GENOCIDAL SOCIALIST LEADERS class=[16]
+Rank9(1400) 0.934 Subject: Re: WP-PCF, Linux, RISC? class=[2]
+Rank10(222) 0.933 Subject: Re: A Message for you Mr. President: How do you know what happened? class=[19]
+クエリと同じクラスがランク10位までに見つかった割合 = 30.0%
+**************************************************
+
+
